@@ -7,7 +7,12 @@ var MENU = [
   },
   {
     url: "resourcepack.html",
-    text: "リソースパック",
+    text: "Minecraft",
+    subCategorys: []
+  },
+  {
+    url: "thrp.html",
+    text: "東方関連",
     subCategorys: []
   },
   {
