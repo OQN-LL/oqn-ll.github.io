@@ -2,6 +2,7 @@ body {
   max-width: 1010px;
   margin: auto;
   padding: 0 10px;
+  background-image: url("../images/background.jpg");
 }
 
 .menu {
